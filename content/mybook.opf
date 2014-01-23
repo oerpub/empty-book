@@ -10,7 +10,5 @@
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
   </manifest>
-  <spine>
-    <itemref idref="module1.html" linear="yes"/>
-  </spine>
+  <spine><itemref idref="module1.html" linear="yes"></itemref></spine>
 </package>
